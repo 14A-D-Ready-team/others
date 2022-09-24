@@ -1,2 +1,2 @@
 ## Ready App egyéb dokumentumai
-[Specifikáció](https://ready-app.atlassian.net/l/cp/fgVejhxH)
+[Specifikáció](https://docs.google.com/document/d/1UzQ3jm2cKdSGBXBR9eocGxWSPyhpASHnEje3cPGQXSA/edit?usp=sharing)
